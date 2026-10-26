@@ -1,0 +1,12 @@
+{
+  "name": "moras-cps-affiliate-commission-yield-router-skill",
+  "version": "1.0.0",
+  "description": "Personal commerce commission optimization router calculating net revenue per 1000 views (RPM) and return deduction clawbacks",
+  "author": "AlphaPark Engineering",
+  "license": "MIT",
+  "keywords": ["cps-router", "affiliate-commission", "creator-economy", "rpm-optimizer", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
